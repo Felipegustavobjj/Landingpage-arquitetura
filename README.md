@@ -6,3 +6,6 @@ https://projetolandingpagearquitetura2024.netlify.app
 
 FUNCIONALIDADES
 *Formulário de "FALE CONOSCO" para captação de leads de potenciais novos clientes da empresa.
+*Link da planilh com registros de leads
+https://docs.google.com/spreadsheets/d/12lnELd7awTD65OCSDS5JdHrHNFK162yz0D-cWoZ-DaM/edit?usp=sharing
+
