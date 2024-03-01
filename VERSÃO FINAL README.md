@@ -18,4 +18,4 @@ Pastas:
 "Index"
 -> index.html 
 "Css"
--> Style.css .js
+-> Style.css
